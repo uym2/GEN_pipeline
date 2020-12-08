@@ -2,7 +2,7 @@ This repository provides data and pipeline to create Fig.2C in the paper.
 
 To plot the figure, simply change directory to ```GND_16S_23S``` and use the script ```plot.R```. You will need the packages ggplot2, scales, and chgpt.
 
-To rerun the pipeline, you first need to install the following packages and make sure they are in the your path:
+To rerun the pipeline, you first need to install the following packages and make sure they are in your path:
 + [TreeN93](https://github.com/niemasd/TreeN93)
 + [tqDist](https://users-cs.au.dk/cstorm/software/tqdist/)
 + [treeswift](https://github.com/niemasd/TreeSwift)
