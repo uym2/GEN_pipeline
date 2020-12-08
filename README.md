@@ -1,4 +1,4 @@
-This repository provides data and pipeline to create Fig.2C in the paper.
+This repository provides data and pipeline to create Fig.2C in the paper. Please note that this pipeline developed and run on macOS, so there is some assumption about the OS system. It should run on a Linux system with little to none modification, but will NOT work on Windows because some dependencies we used are not compatible with Windows.
 
 To plot the figure, simply change directory to ```GND_16S_23S``` and use the script ```plot.R```. You will need the packages ggplot2, scales, and chgpt.
 
