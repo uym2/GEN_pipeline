@@ -14,6 +14,6 @@ Then change directory to ```GND_16S_23S``` and run
   bash full_pipeline.sh
 ```
 
-You should see many files created that look similar to the files in the ```Data.tar.gz```. Please note that you will NOT see the exact same files as in ```Data``` because there is randomness in our algorithm. Nevertheless, you will get a similar figure.
+You should see many files created that look similar to the files in the ```Data.tar.gz```. Please note that you will NOT see the exact same files as in ```Data`.tar.gz`` because there is randomness in our algorithm. Nevertheless, you will get a similar figure.
 
 
